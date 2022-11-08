@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221031T004329Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b4655f5545aed850232118652079d7723f0463e80442ea38b7e6753cc68271c5" alt="hbnb logo">
+  <img src="https://github.com/ayub-kimani/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="hbnb logo">
 </p>
 
 <h1 align="center">AirBnB clone</h1>
